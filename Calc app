@@ -1,0 +1,15 @@
+Technical Document: Calculator App
+
+1. Overview
+
+The Calculator App is a simple Python-based application that performs basic arithmetic operations, including addition, subtraction, multiplication, and division. It is designed for command-line interaction and provides user-friendly error handling.
+
+2. Features
+
+Addition, subtraction, multiplication, and division operations.
+
+Handles divide-by-zero errors gracefully.
+
+Simple and intuitive command-line interface.
+
+Lightweight with minimal dependencies.
